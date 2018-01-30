@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "731817913304",
+    "firebase_url": "https://golapp-a1b1a.firebaseio.com",
+    "project_id": "golapp-a1b1a",
+    "storage_bucket": "golapp-a1b1a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731817913304:android:e80e776b7b495e73",
+        "android_client_info": {
+          "package_name": "ar.com.golapp.golapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "731817913304-urhaa12ngd74lddaoovdu3b1q1vigq8j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ar.com.golapp.golapp",
+            "certificate_hash": "f1e72bd03f196070af9ba9bee2cdcde1a4014e42"
+          }
+        },
+        {
+          "client_id": "731817913304-nnpmv9698o6jl9mj0hcri7c9682cqr39.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcdUadoL1TGALTC34EjLLYUylkHIcr57A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "731817913304-nnpmv9698o6jl9mj0hcri7c9682cqr39.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
